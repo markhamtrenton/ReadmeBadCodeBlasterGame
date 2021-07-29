@@ -13,6 +13,8 @@ Database Type: MongoDB
 Libaries Used: ReactJS
 
 ![BCBlogin](https://user-images.githubusercontent.com/77074964/127538215-049df460-2a89-4bc4-a13a-319c8359c3ba.png)
-![BCBplaymenu](https://user-images.githubusercontent.com/77074964/127547613-15bb871d-dfae-4265-b8b0-d676f357d0ff.jpg)![BCBgame](https://user-images.githubusercontent.com/77074964/127547676-6a8a4e2d-92ef-45c8-863a-7a1aabebf1b4.jpg)
-
+![BCBplaymenu](https://user-images.githubusercontent.com/77074964/127547613-15bb871d-dfae-4265-b8b0-d676f357d0ff.jpg)
 ![BCBcustomizeship](https://user-images.githubusercontent.com/77074964/127546979-f542db9d-f917-4c27-8673-13bee17acbd9.jpg)
+![BCBgame](https://user-images.githubusercontent.com/77074964/127547676-6a8a4e2d-92ef-45c8-863a-7a1aabebf1b4.jpg)
+
+
