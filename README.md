@@ -1,4 +1,5 @@
 
+
 # ReadmeBadCodeBlasterGame
 Sprectre Productions Presents:Bad Code Blaster![SpectreProductions](https://user-images.githubusercontent.com/77074964/127537477-feeda7df-5583-4f6c-8bf3-153328f573da.gif)
 
@@ -11,3 +12,4 @@ Database Type: MongoDB
 Libaries Used: ReactJS
 
 ![BCBlogin](https://user-images.githubusercontent.com/77074964/127538215-049df460-2a89-4bc4-a13a-319c8359c3ba.png)
+![BCBcustomizeship](https://user-images.githubusercontent.com/77074964/127546979-f542db9d-f917-4c27-8673-13bee17acbd9.jpg)
