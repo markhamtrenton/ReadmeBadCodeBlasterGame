@@ -6,7 +6,7 @@
                                                                                     
                                                   Presents:Bad Code Blaster!
 
-Come and play our game all built with JS within a React style framework and Mongodb. Just login and play where ever on your phone it doesnt matter because the app has been optimized for mobile aswell with mobile controls. Choose your ship in the customizations prompt and hit play and go into a space battle with astroids and aliens! Go to the view highscores prompt and view all your scores as you progress through the game!
+Come and play our game all built with JS within a Reactjs style framework and Mongodb. Just login and play where ever on your phone it doesnt matter because the app has been optimized for mobile aswell with mobile controls. Choose your ship in the customizations prompt and hit play and go into a space battle with astroids and aliens! Go to the view highscores prompt and view all your scores as you progress through the game!
 ---------------------------------
 
 Problems we ran into: 
