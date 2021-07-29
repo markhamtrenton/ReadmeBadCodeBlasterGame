@@ -7,6 +7,10 @@
                                                   Presents:Bad Code Blaster!
 
 Come and play our game all built with JS within a Reactjs style framework and Mongodb. Just login and play where ever on your phone it doesnt matter because the app has been optimized for mobile aswell with mobile controls. Choose your ship in the customizations prompt and hit play and go into a space battle with astroids and aliens! Go to the view highscores prompt and view all your scores as you progress through the game!
+Deploy Link: https://bad-code-blaster.herokuapp.com/
+
+Github: https://github.com/lanebpemberton/bad-code-blaster
+
 ---------------------------------
 
 Problems we ran into: Not being able to use certain componets due to Reactjs resolved by abiding by the laws of ReactJs.
