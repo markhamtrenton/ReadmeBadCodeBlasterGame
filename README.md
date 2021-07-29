@@ -10,7 +10,7 @@ Come and play our game all built with JS within a Reactjs style framework and Mo
 ---------------------------------
 
 Problems we ran into: Not being able to use certain componets due to Reactjs resolved by abiding by the laws of ReactJs.
-(npm i) regnerated packgejson therfore loosing dependencies solution use (npm ci) to use existing packgejson.
+(npm i) regnerated packagejson therfore loosing dependencies solution use (npm ci) to use existing packgejson.
 
 
 
