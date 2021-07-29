@@ -7,12 +7,27 @@
                                                   Presents:Bad Code Blaster!
 
 Come and play our game all built with JS within a React style framework and Mongodb. Just login and play where ever on your phone it doesnt matter because the app has been optimized for mobile aswell with mobile controls. Choose your ship in the customizations prompt and hit play and go into a space battle with astroids and aliens! Go to the view highscores prompt and view all your scores as you progress through the game!
+---------------------------------
+
+Problems we ran into: 
+
+
+
+
+----------------------------------
+
+license: MIT
 
 Languages Used: Javascript html css
 
 Database Type: MongoDB
 
-Libaries Used: ReactJS
+Libaries Used: ReactJS, Apollo, Graphql, Heroku
+
+
+
+
+
 
 ![BCBlogin](https://user-images.githubusercontent.com/77074964/127538215-049df460-2a89-4bc4-a13a-319c8359c3ba.png)
 ![BCBplaymenu](https://user-images.githubusercontent.com/77074964/127547613-15bb871d-dfae-4265-b8b0-d676f357d0ff.jpg)
